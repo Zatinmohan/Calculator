@@ -1,6 +1,15 @@
-# calculator
+# Calculator
+A simple calculator app built on flutter framework. Support Dark mode as well.
 
-A new Flutter project.
+## App Screenshot
+<img src="https://user-images.githubusercontent.com/37806553/107152998-324ccb00-6991-11eb-9a89-86ac2c9ffe18.jpg" width="200" height="400">&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37806553/107153004-3b3d9c80-6991-11eb-91ab-24ca32ab40b9.jpg" width="200" height="400">
+
+## Resources
+- [Design Inspiration](https://dribbble.com/shots/14709020-Calculator)
+- [Icons](https://pub.dev/packages/font_awesome_flutter)
+- [Fonts](https://pub.dev/packages/google_fonts)
+- [Mathematical Functions](https://pub.dev/packages/math_expressions)
+- [Dark Theme Provider](https://pub.dev/packages/provider)
 
 ## Getting Started
 
